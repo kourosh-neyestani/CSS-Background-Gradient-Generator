@@ -93,9 +93,9 @@ function Home() {
                         <button className='close' onClick={() => handleClick('show', false)}>x</button>
                     </div>
                     <div className='output'>
-                        <p>background: -webkit-linear-gradient{gradient};</p>
-                        <p>background: linear-gradient{gradient};</p>
-                        <button className='button' onClick={() => copyToClipboard(`background: -webkit-linear-gradient${gradient}; background: linear-gradient${gradient};`)}>Copy to clipboard</button>
+                        <p>background: -webkit-{type}{gradient};</p>
+                        <p>background: {type}{gradient};</p>
+                        <button className='button' onClick={() => copyToClipboard(`background: -webkit-${type}${gradient}; background: ${type}${gradient};`)}>Copy to clipboard</button>
                     </div>
                 </div>
             </div>
