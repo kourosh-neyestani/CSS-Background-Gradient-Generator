@@ -10,11 +10,11 @@ A free CSS gradient generator tool, also this website lets you create a colorful
 
 ### Install
 
-In the project directory, you can run: `npm install`.
+`npm install`
 
 ### Usage
 
-After installation, you can run: `npm start`.
+`npm start`
 
 ## License
 
