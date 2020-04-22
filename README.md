@@ -1,24 +1,20 @@
-![alt text](http://repo.afracode.com/css-gradient/demo.png "CSS Gradient Demo")
+![CSS Background Gradient Generator(http://repo.afracode.com/css-gradient/demo.png "CSS Gradient Demo")
 
-# css-gradient
+# CSS Background Gradient Generator
 
 A free CSS gradient generator tool, also this website lets you create a colorful gradient background animation.
 
-[Demo Link is here...](http://repo.afracode.com/css-gradient/)
+[Demo Link](http://repo.afracode.com/css-gradient/)
 
 ## Quick start
 
 ### Install
 
-Coming Soon
+In the project directory, you can run: `npm install`.
 
 ### Usage
 
-Coming Soon
-
-## Documentation
-
-Coming Soon
+After installation, you can run: `npm start`.
 
 ## License
 
